@@ -1,0 +1,72 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+.leaflet-control-zoomlabel {
+    background-color: rgba(255, 255, 255, 0.8); /* semi-transparent white background */
+    border-radius: 8px; /* rounded corners */
+    padding: 5px 10px; /* some padding for aesthetics */
+    font-size: 14px; /* font size */
+    font-weight: bold; /* make text bold */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4); /* subtle shadow for depth */
+}
+
+.layer-menu {
+  position: absolute;
+  top: 50px; /* Adjust based on your layout */
+  right: 0;
+  width: 250px; /* Adjust the width as necessary */
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  transform: translateX(100%);
+  transition: transform 0.3s ease-in-out;
+  z-index: 500; /* Ensure it's above the map but below the toggle button */
+}
+
+.layer-menu.open {
+  transform: translateX(0%);
+}
+
+#menuToggle {
+  position: absolute;
+  top: 10px; /* Adjust based on your layout */
+  right: 10px; /* Position the toggle button on the right */
+  z-index: 1000; /* Ensure it's above the map */
+  background-color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+.custom-tooltip {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    font-size: 16px; /* Adjust the font size as needed */
+}
+
+/* To further customize the tooltip text appearance */
+.custom-tooltip::before {
+    content: none; /* Removes the default arrow */
+}
+
+.custom-tooltip .leaflet-tooltip-inner {
+    background: transparent !important;
+    color: #000; /* Adjust text color as needed */
+    padding: 0; /* Adjust padding as needed */
+}
+
+.leaflet-tooltip {
+    font-size: 20px !important;
+    background: yellow !important;
+    color: red !important;
+}
+

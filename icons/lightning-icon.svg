@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="bitcoin_lightning_icon.fw-Page%201"
+   viewBox="0 0 280 280"
+   style="background-color:#ffffff00"
+   version="1.1"
+   xml:space="preserve"
+   x="0px"
+   y="0px"
+   width="280px"
+   height="280px"
+   sodipodi:docname="200_299.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata4574"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4572" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1016"
+   id="namedview4570"
+   showgrid="false"
+   inkscape:zoom="3.05"
+   inkscape:cx="140"
+   inkscape:cy="140"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="bitcoin_lightning_icon.fw-Page%201" />
+	<path
+   id="Ellipse"
+   d="M 7 140.5 C 7 66.769 66.769 7 140.5 7 C 214.231 7 274 66.769 274 140.5 C 274 214.231 214.231 274 140.5 274 C 66.769 274 7 214.231 7 140.5 Z"
+   fill="#f7931a"
+   style="fill:#ff4000;fill-opacity:1" />
+	<path
+   d="M 161.1943 51.5 C 153.2349 72.1607 145.2756 94.4107 135.7244 116.6607 C 135.7244 116.6607 135.7244 119.8393 138.9081 119.8393 L 204.1747 119.8393 C 204.1747 119.8393 204.1747 121.4286 205.7667 123.0179 L 110.2545 229.5 C 108.6626 227.9107 108.6626 226.3214 108.6626 224.7321 L 142.0919 153.2143 L 142.0919 146.8571 L 75.2333 146.8571 L 75.2333 140.5 L 156.4187 51.5 L 161.1943 51.5 Z"
+   fill="#ffffff"
+   id="path4567" />
+</svg>
